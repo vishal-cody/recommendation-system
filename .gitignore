@@ -179,3 +179,10 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Large model artefacts (exceed GitHub's 100 MB file size limit)
+similarity.pkl
+
+# Extracted CSV datasets (available via the bundled zip file)
+tmdb_5000_movies.csv
+tmdb_5000_credits.csv
