@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-This is a simple movie recommendation system built using Python.  
+This is a  movie recommendation system built using Python.  
 It suggests movies similar to the one you select by using **content-based filtering** (similarity between movie overviews, genres, cast, etc.).
 
 The project includes:
